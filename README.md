@@ -1,16 +1,13 @@
-## Hi there 👋
+<img src="https://jga7o.github.io/icon.png" alt="Jga7" width="96" align="left">
 
-<!--
-**Jga7o/Jga7o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Jga7
+**Tool & app creator.** I make free tools and apps for Windows.
 
-Here are some ideas to get you started:
+<br clear="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- **[Jga7 Mod Tool](https://github.com/Jga7o/jga7-mod-tool)**: make, install and restore character mods for A Plague Tale: Innocence. [Website](https://jga7o.github.io/jga7-mod-tool/) · [Source code](https://github.com/Jga7o/jga7-mod-tool-source)
+
+More tools and apps are on the way.
+
+**Website:** [jga7o.github.io](https://jga7o.github.io/) · **Contact:** fdxskd@gmail.com
